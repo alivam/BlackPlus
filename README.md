@@ -1,15 +1,14 @@
-# [BlackPlus](https;//telegram.me/blackplus) > [GitHub](https://GitHub.com/Mehdi-HS/BlackPlus) | [Site](http://BlackPlus.ir) |  [Channel](https://telegram.me/black_ch)
+
 * * *
 *New Bot For Manage Your SuperGroups.
 
 *A Advanced Bot Based In Teleseed (Normal Groups)
 
 * * *
-# [BlackPlus](https://telegram.me/Blackplus) Uses "Anticrash" & "Autolaunch" To Be Active All The Time
 # آموزش نصب سروس
 1. کد زیر را در ترمینال وارد کنید.
 
-sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/mehdi-hs/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/alivam/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 
 2.بعد از چند دقیقه ربات از شما شماره ای میگیره که روبات روی اون نصب شه...
 بعد از وارد کردن شماره و وارد کردن کد در صورتی ربات در اکانت مورد نظر نصب شد ترمینال را ببندید و ترمینال جدید باز کنید
@@ -308,7 +307,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/mehdi-hs/BlackPlus.git
+git clone https://github.com/alivam/BlackPlus.git
 cd BlackPlus
 chmod +x launch.sh
 ./launch.sh install
@@ -318,7 +317,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/mehdi-hs/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/alivam/BlackPlus.git && cd BlackPlus && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 * * *
@@ -349,17 +348,3 @@ Create a realm using the `!createrealm` command.
 
 
 * * *
-
-# Our team!
-
-[MehdiHS](https://github.com/mehdi-hs) ([Telegram](https://telegram.me/MehdiHS))
-
-[YflQw](https://github.com/Mehdi-HS) ([Telegram](https://telegram.me/YflQw))
-
-[Alireza NiGht](https://github.com/mehdi-hs) ([Telegram](https://telegram.me/ye_adam_mamoli))
-
-[Surena](https://github.com/mehdi-hs) ([Telegram](https://telegram.me/mr_surena))
-
-###  Telegram channel :
-
-[@Black_CH](https://telegram.me/Black_CH)
