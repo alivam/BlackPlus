@@ -10,7 +10,7 @@ local function check_member_super(cb_extra, success, result)
   for k,v in pairs(result) do
     local member_id = v.peer_id
     if member_id ~= our_id then
-      -- SuperGroup configuration
+      -- SuperGroup configuration  
       data[tostring(msg.to.id)] = {
         group_type = 'SuperGroup',
 		long_id = msg.to.peer_id,
@@ -1949,7 +1949,7 @@ local function run(msg, matches)
 		end
 
 		if matches[1] == 'help' and not is_owner(msg) then
-			text = "Message /superhelp to @BlackPlus in private for SuperGroup help."
+			text = "Message /superhelp in private for SuperGroup help."
 			reply_msg(msg.id, text, ok_cb, false)
 		elseif matches[1] == 'help' and is_owner(msg) then
 			local name_log = user_print_name(msg.from)
